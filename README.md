@@ -1,5 +1,5 @@
 ## Quase programador, desculpa
-#### Bacharel em Ciência e Técnologia - Unifesp
+#### Bacharel em Ciência e Tecnologia - Unifesp
 <div align="center">
   <a href="https://github.com/LeonariX58">
 </div>
